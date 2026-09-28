@@ -29,7 +29,8 @@ KioSoft (now trading as PayRange) doesn't swap a coil for a belt inside a slot. 
 | 4 | LY-M8 24 VDC single spring motor (drives spiral or belt coupling) | Guangdong Lingye, via made-in-china.com | 24 VDC. RPM and feedback switch not published | CAD $7.07/unit (US$5) at 100–200 pcs, before shipping, duty and brokerage | MOQ 100 | MOQ price only. No spec sheet | [V] price |
 | 5 | Coupling for conveyor belt (TCN-style) | Vendy1 (Germany) | Links the slot motor to the belt roller | CAD $8.06 (€5.00), before shipping | Not published | EU import. Only fits TCN-pattern lanes | [V] |
 | 6 | 460 × 85 mm stainless mini conveyor lane, 24 VDC, 3.5–5 kg, ~35 RPM | Amazon.ca (ASIN B0C89J1KB1, B0DQL4B76N) | Standalone lane with its own motor. Listing says it suits spring-type machines | Not published (page wouldn't load) | Not published | Marketplace seller, batch varies. Not a drop-in for a spiral slot | [T] |
-| 7 | Local parts and service | Kane's Distributing (Ontario) · 905-688-8823 | Vending equipment sales and service | Not published | Phone | Mostly refurbished branded machines | [T] |
+| 7 | Robomarket R1-i88 Max / R2-i88 Slim / Outdoor series | Eflyn Canada, 2660 Meadowvale Blvd Unit 6A, Mississauga ON · 657-413-8337 | "Horizontal pushing slots" on 6 shelves, 84 selections, 539–819 pcs, X-Y robot arm + elevator pickup, BLDC motor rated 250,000 cycles, MDB/DEX/RS232 | Not published | Not published | **Not coil or belt.** Pusher lanes only, so no coil/belt swap. Whole machine, 516 kg | [V] |
+| 8 | Local parts and service | Kane's Distributing (Ontario) · 905-688-8823 | Vending equipment sales and service | Not published | Phone | Mostly refurbished branded machines | [T] |
 
 ## Red flags
 
@@ -49,6 +50,7 @@ KioSoft (now trading as PayRange) doesn't swap a coil for a belt inside a slot. 
 - yemchang.com/vending-parts/vending-machine-conveyor-tray.html: 503, search snippet only [T]
 - amazon.ca/dp/B0C89J1KB1, amazon.ca/dp/B0DQL4B76N: bot-blocked, title and snippet only [T]
 - shop.quickfreshvending.com/product/spiral-belt-slot-motor/: bot-blocked, not used
+- eflyn.com/catalog/robomarket-smart-micro-market-vending-machine-max-series/, -slim-series/, robomarket-smart-vending-machine-outdoor-series-with-optional-smart-locker/ [V]
 - vendingconnection.com Canadian suppliers list (Kane's) [T]
 - bankofcanada.ca Valet API FX [V]
 - Not checked: landed cost for any import (no prices published), and whether KioSoft sells trays separately.
