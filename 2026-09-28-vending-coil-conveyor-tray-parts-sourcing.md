@@ -29,7 +29,7 @@ KioSoft (now trading as PayRange) doesn't swap a coil for a belt inside a slot. 
 | 4 | LY-M8 24 VDC single spring motor (drives spiral or belt coupling) | Guangdong Lingye, via made-in-china.com | 24 VDC. RPM and feedback switch not published | CAD $7.07/unit (US$5) at 100–200 pcs, before shipping, duty and brokerage | MOQ 100 | MOQ price only. No spec sheet | [V] price |
 | 5 | Coupling for conveyor belt (TCN-style) | Vendy1 (Germany) | Links the slot motor to the belt roller | CAD $8.06 (€5.00), before shipping | Not published | EU import. Only fits TCN-pattern lanes | [V] |
 | 6 | 460 × 85 mm stainless mini conveyor lane, 24 VDC, 3.5–5 kg, ~35 RPM | Amazon.ca (ASIN B0C89J1KB1, B0DQL4B76N) | Standalone lane with its own motor. Listing says it suits spring-type machines | Not published (page wouldn't load) | Not published | Marketplace seller, batch varies. Not a drop-in for a spiral slot | [T] |
-| 7 | Robomarket R1-i88 Max / R2-i88 Slim / Outdoor series | Eflyn Canada, 2660 Meadowvale Blvd Unit 6A, Mississauga ON · 657-413-8337 | "Horizontal pushing slots" on 6 shelves, 84 selections, 539–819 pcs, X-Y robot arm + elevator pickup, BLDC motor rated 250,000 cycles, MDB/DEX/RS232 | Quote MIC601165 (USD, before tax): R2 Slim CAD $21,075 / R1 Max CAD $23,904 hardware. Bundle with activation, delivery and 1 yr licence CAD $28,412 / CAD $31,241. Then CAD $140/mo licence. Lease-to-own CAD $1,130 / CAD $1,229 per mo over 36 mo | MOQ 1 | Neither the quote nor the website mentions a coil or spiral lane. The brochure says "say goodbye to traditional spring-based vending machines". The coil-slot conversion needs written confirmation from Eflyn | [V] quote PDF + website |
+| 7 | Robomarket R1-i88 Max / R2-i88 Slim / Outdoor series | Eflyn Canada, 2660 Meadowvale Blvd Unit 6A, Mississauga ON · 657-413-8337 | "Horizontal pushing slots" on 6 shelves, 84 selections, 539–819 pcs, X-Y robot arm + elevator pickup, BLDC motor rated 250,000 cycles, MDB/DEX/RS232 | Quote MIC601165 (USD, before tax): R2 Slim CAD $21,075 / R1 Max CAD $23,904 hardware. Bundle with activation, delivery and 1 yr licence CAD $28,412 / CAD $31,241. Then CAD $140/mo licence. Lease-to-own CAD $1,130 / CAD $1,229 per mo over 36 mo | MOQ 1 | Push ↔ coil slot conversion confirmed on Gaz's own unit, though the quote and website don't mention it. Part numbers for the coil lane are still needed | [V] quote PDF + website · conversion confirmed first-hand |
 | 8 | Local parts and service | Kane's Distributing (Ontario) · 905-688-8823 | Vending equipment sales and service | Not published | Phone | Mostly refurbished branded machines | [T] |
 
 ## Red flags
@@ -58,11 +58,12 @@ KioSoft (now trading as PayRange) doesn't swap a coil for a belt inside a slot. 
 
 ## Conflicts
 
-- Eflyn push→coil conversion: Gaz understands the Robomarket can switch a push slot to a coil slot. Quote MIC601165 lists only "horizontal pushing slots" and dismisses spring-based machines. Treated as unconfirmed until Eflyn documents it in writing.
+- Eflyn push→coil conversion: quote MIC601165 lists only "horizontal pushing slots" and dismisses spring-based machines. Gaz has a Robomarket in his shop and confirms from the machine itself that a push slot converts to a coil slot. Used: Gaz's first-hand confirmation. The quote describes the default setup, not everything the machine can do.
 
 ## NEEDS YOU
 
 1. Call KioSoft/PayRange Canada at (855) 856-6398 and ask whether spiral and belt trays for the TSD48 are sold as spares, at what price, and what the motor voltage is.
 2. Tell me the quantity and whether you're modifying an existing machine or building a custom one. That decides between KioSoft trays and a Chinese lane RFQ.
-3. Ask Eflyn (657-413-8337, quote MIC601165) for the coil-lane kit's part number, price per lane and motor spec, and whether the conversion is in writing. Also ask whether pusher or coil lanes are sold without the machine.
-4. If you're building custom, send an RFQ to hauncheon@outlook.com for belt lanes plus matching spirals on the same 24 VDC motor, asking for price, MOQ, lead time and the stop-switch type.
+3. Photograph the labels on your Robomarket: the machine nameplate, the part number on the coil lane and the push lane, the motor label (voltage and part number), the lane connector, and the controller board model. Also measure the lane width and the coil's diameter and pitch. With those I can trace the Chinese manufacturer and price spare lanes.
+4. In parallel, ask Eflyn (657-413-8337, quote MIC601165) for the coil-lane and push-lane part numbers and prices per lane.
+5. If you're building custom, send an RFQ to hauncheon@outlook.com for belt lanes plus matching spirals on the same 24 VDC motor, asking for price, MOQ, lead time and the stop-switch type.
